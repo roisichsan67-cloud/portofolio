@@ -1,0 +1,30 @@
+[
+    {
+        "company": "PLN Indonesia Power",
+        "logo": "images/pln-logo.png",
+        "position": "Instrument Technician (Internship)",
+        "year": "Jan 2026",
+        "description": "Membantu pemeliharaan preventif dan inspeksi instrumen lapangan (tekanan, suhu, dan aliran). Mendukung kegiatan kalibrasi di bawah pengawasan teknisi senior. Mengamati dan membantu monitoring sistem kontrol berbasis PLC. Menerapkan regulasi keselamatan pembangkit listrik dan prosedur K3."
+    },
+    {
+        "company": "PT Solusi Bangun Indonesia Tbk",
+        "logo": "images/sbi-logo.png",
+        "position": "Maintenance Electrician (Internship)",
+        "year": "Okt 2025 - Des 2025",
+        "description": "Membantu pemeliharaan kelistrikan pada peralatan industri dan panel listrik. Mendukung troubleshooting motor, pengkabelan, dan komponen kelistrikan. Berpartisipasi dalam kegiatan pemeliharaan preventif dan korektif. Menerapkan standar keselamatan kelistrikan dan prosedur K3."
+    },
+    {
+        "company": "Panasonic Service Center Semarang",
+        "logo": "images/panasonic-logo.png",
+        "position": "Technical Services Specialist (PKL)",
+        "year": "Jun 2022 - Agu 2022",
+        "description": "Membantu diagnosis dan perbaikan perangkat elektronik rumah tangga. Mendukung operasi layanan teknis dan kegiatan customer service. Melakukan pengujian dasar dan penggantian komponen. Mempelajari prosedur layanan standar dan penanganan produk."
+    },
+    {
+        "company": "PT Panasonic Manufacturing Indonesia",
+        "logo": "images/panasonic-logo.png",
+        "position": "Production Team Member (PKL)",
+        "year": "Feb 2022 - Apr 2022",
+        "description": "Membantu operasional lini produksi sesuai standard operating procedure (SOP). Mendukung quality control dan proses inspeksi dasar. Mengoperasikan peralatan produksi dasar di bawah pengawasan. Menjaga keselamatan kerja dan implementasi 5S."
+    }
+]

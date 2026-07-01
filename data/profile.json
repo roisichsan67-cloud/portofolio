@@ -1,0 +1,36 @@
+{
+    "name": "Rois Munawar Nur Ichsan",
+    "description": "Fresh graduate D3 Teknik Elektronika dari Politeknik Negeri Semarang (Polines) dengan semangat tinggi di bidang elektronika, instrumentasi, dan IoT. Memiliki pengalaman praktis dalam pemrograman mikrokontroler, serta pengembangan perangkat keras dan lunak. Siap berkontribusi di dunia industri maupun pengembangan teknologi dengan kemampuan analisis yang kuat dan etos kerja yang tinggi.",
+    "profileImage": "images/profile.jpg",
+    "email": "roismunawar@gmail.com",
+    "phone": "+62 813-2679-4590",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://linkedin.com/in/rois-munawar-nur-ichsan"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/roisichsan67-cloud"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://instagram.com/ichsann911"
+        }
+    ],
+    "cv": {
+        "text": "Download CV",
+        "file": "docs/cv.pdf",
+        "icon": "fas fa-file-pdf"
+    },
+    "skills": [
+        {"name": "Mikrokontroler & Embedded System", "icon": "fas fa-microchip", "level": 65},
+        {"name": "Internet of Things (IoT)", "icon": "fas fa-wifi", "level": 70},
+        {"name": "Perancangan PCB", "icon": "fas fa-circuit-board", "level": 60},
+        {"name": "Pemrograman C/C++", "icon": "fas fa-c", "level": 75},
+        {"name": "Instrumentasi & Sensor", "icon": "fas fa-gauge-high", "level": 75},
+        {"name": "Web Programming", "icon": "fab fa-js", "level": 70},
+        {"name": "Troubleshooting Elektronika", "icon": "fas fa-screwdriver-wrench", "level": 80},
+        {"name": "Technical Writing", "icon": "fas fa-pen", "level": 70}
+    ]
+}

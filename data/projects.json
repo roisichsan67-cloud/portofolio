@@ -1,0 +1,40 @@
+[
+    {
+        "title": "Sistem PID untuk keseimbangan bola dalam rel",
+        "year": "2026",
+        "fund": "Tugas Matkul SKD Teori",
+        "partner": "Politeknik Negeri Semarang",
+        "role": "Perancang Hardware",
+        "description": "Merancang prototipe rel tempat bola akan diseimbangkan oleh pid dengan data yang diambil dari ultrasonik diujung rel",
+        "image": "images/project1.png",
+        "link": "#"
+    },
+    {
+        "title": "Sistem Monitoring Total Orang Masuk, Keluar, Dan Jumlah Orang Dalam Ruangan",
+        "year": "2025",
+        "fund": "Tugas Matkul Desain & Projek Elektronika",
+        "partner": "Politeknik Negeri Semarang",
+        "role": "Perancang Hardware & Software Monitoring",
+        "description": "Merancang sistem monitoring Orang Masuk, Keluar, Dan Jumlah Orang Dalam Ruangan secara real-time menggunakan sensor Ultrasonik yang terhubung ke platform Firebase. Data ditampilkan melalui aplikasi yang dibuat dengan MIT app Inventor.",
+        "image": "images/project2.png",
+        "link": "#"
+    },
+    {
+        "title": "Sistem Tempat Parkir Otomatis",
+        "year": "2025",
+        "partner": "Tugas Matkul KBK",
+        "role": "Perancangan Hardware",
+        "description": "Merancang prototipe tempat parkir serta mengintalasi jalur perkabelan sistem parkir otomatis yang terhubung dengan Matlab",
+        "image": "images/project3.png",
+        "link": "#"
+    },
+    {
+        "title": "Sistem Tempat Sampah Otomatis",
+        "year": "2025",
+        "partner": "Tugas Matkul Lab Sensor Tranducer",
+        "role": "Perancangan Hardware",
+        "description": "Merancang prototipe tempat sampah serta mengintalasi jalur perkabelan sistem tempat sampah otomatis beserta programnya",
+        "image": "images/project4.png",
+        "link": "#"
+    }
+]

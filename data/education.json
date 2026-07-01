@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Politeknik Negeri Semarang",
+        "logo": "images/polines-logo.png",
+        "major": "D3 Teknik Elektronika",
+        "year": "2023 - 2026",
+        "description": "Lulus dengan predikat sangat memuaskan; Fokus pada sistem instrumentasi industri, dan Internet of Things (IoT)."
+    },
+    {
+        "university": "SMK Negeri Nusawungu",
+        "logo": "images/polines-logo1.png",
+        "major": "Teknik Instalasi Tenaga Listrik",
+        "year": "2020 - 2023",
+        "description": "Menyelesaikan pendidikan menengah dengan nilai yang baik; Ikut serta dalam kelas kerjasama industri dan teknologi Panasonic."
+    }
+]

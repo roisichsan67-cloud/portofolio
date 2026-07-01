@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rois Munawar Nur Ichsan | D3 Teknik Elektronika</title>
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <canvas id="bg-canvas"></canvas>
+
+    <header>
+        <nav class="top-nav">
+            <div class="nav-logo">
+                <span class="logo-bracket">&lt;</span>RMNI<span class="logo-bracket">/&gt;</span>
+            </div>
+            <ul class="nav-links">
+                <li><a href="#profile" data-section="profile"><i class="fas fa-user"></i><span>Profil</span></a></li>
+                <li><a href="#education" data-section="education"><i class="fas fa-graduation-cap"></i><span>Pendidikan</span></a></li>
+                <li><a href="#experience" data-section="experience"><i class="fas fa-briefcase"></i><span>Pengalaman</span></a></li>
+                <li><a href="#projects" data-section="projects"><i class="fas fa-code-branch"></i><span>Proyek</span></a></li>
+            </ul>
+            <button class="nav-toggle" id="nav-toggle"><i class="fas fa-bars"></i></button>
+        </nav>
+        <div class="mobile-menu" id="mobile-menu">
+            <ul>
+                <li><a href="#profile"><i class="fas fa-user"></i> Profil</a></li>
+                <li><a href="#education"><i class="fas fa-graduation-cap"></i> Pendidikan</a></li>
+                <li><a href="#experience"><i class="fas fa-briefcase"></i> Pengalaman</a></li>
+                <li><a href="#projects"><i class="fas fa-code-branch"></i> Proyek</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <main>
+        <!-- Profile Section -->
+        <section id="profile" class="section">
+            <div class="container">
+                <div class="profile-content">
+                    <div class="profile-image-container">
+                        <div class="img-hex-wrapper">
+                            <img id="profile-pic" src="" alt="Foto Profil" class="profile-image">
+                        </div>
+                        <div class="profile-contact">
+                            <p><i class="fas fa-envelope"></i><span id="profile-email"></span></p>
+                            <p><i class="fas fa-phone"></i><span id="profile-phone"></span></p>
+                            <div class="social-links" id="social-links"></div>
+                            <a href="#" id="cv-download" class="cv-download-btn">
+                                <i class="fas fa-file-pdf"></i> Download CV
+                            </a>
+                        </div>
+                    </div>
+                    <div class="profile-info">
+                        <div class="badge-tag">Fresh Graduate · D3 Teknik Elektronika</div>
+                        <h1 id="profile-name"></h1>
+                        <p id="profile-description" class="profile-desc"></p>
+                        <div class="skills-container" id="skills-container">
+                            <h3><i class="fas fa-bolt"></i> Keahlian</h3>
+                            <div class="skills-grid" id="skills-grid"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Education Section -->
+        <section id="education" class="section">
+            <div class="container">
+                <div class="section-header">
+                    <span class="section-label">// pendidikan</span>
+                    <h2>Riwayat Pendidikan</h2>
+                </div>
+                <div class="education-list" id="education-list"></div>
+            </div>
+        </section>
+
+        <!-- Experience Section -->
+        <section id="experience" class="section">
+            <div class="container">
+                <div class="section-header">
+                    <span class="section-label">// pengalaman</span>
+                    <h2>Pengalaman</h2>
+                </div>
+                <div class="experience-list" id="experience-list"></div>
+            </div>
+        </section>
+
+        <!-- Projects Section -->
+        <section id="projects" class="section">
+            <div class="container">
+                <div class="section-header">
+                    <span class="section-label">// proyek</span>
+                    <h2>Riset &amp; Proyek</h2>
+                </div>
+                <div class="projects-grid" id="projects-grid"></div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p><span class="footer-code">&lt;</span> &copy; <span id="current-year"></span> Rois Munawar Nur Ichsan <span class="footer-code">/&gt;</span></p>
+        <p class="footer-sub">D3 Teknik Elektronika · Politeknik Negeri Semarang</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
